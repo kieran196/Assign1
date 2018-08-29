@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 87395822fd647f24d832af9b32807ed2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Asteroid_2
+    100002: //RootNode
+    100004: Empty
+    100006: Icosphere_Sub_1
+    100008: Icosphere_Sub_1_001
+    100010: Icosphere_Sub_1_002
+    100012: Icosphere_Sub_2
+    100014: Icosphere_Sub_2_001
+    100016: Icosphere_Sub_3
+    100018: Icosphere_Sub_3_001
+    100020: Icosphere_Sub_3_001_MeshPart0
+    100022: Icosphere_Sub_3_001_MeshPart1
+    100024: Icosphere_Sub_3_002
+    100026: Icosphere_Sub_3_002_MeshPart0
+    100028: Icosphere_Sub_3_002_MeshPart1
+    100030: Sun
+    100032: Text
+    100034: Text_001
+    100036: Text_002
+    100038: Text_003
+    100040: Text_004
+    400000: Asteroid_2
+    400002: //RootNode
+    400004: Empty
+    400006: Icosphere_Sub_1
+    400008: Icosphere_Sub_1_001
+    400010: Icosphere_Sub_1_002
+    400012: Icosphere_Sub_2
+    400014: Icosphere_Sub_2_001
+    400016: Icosphere_Sub_3
+    400018: Icosphere_Sub_3_001
+    400020: Icosphere_Sub_3_001_MeshPart0
+    400022: Icosphere_Sub_3_001_MeshPart1
+    400024: Icosphere_Sub_3_002
+    400026: Icosphere_Sub_3_002_MeshPart0
+    400028: Icosphere_Sub_3_002_MeshPart1
+    400030: Sun
+    400032: Text
+    400034: Text_001
+    400036: Text_002
+    400038: Text_003
+    400040: Text_004
+    2300000: Asteroid_2
+    2300002: Icosphere_Sub_1
+    2300004: Icosphere_Sub_1_001
+    2300006: Icosphere_Sub_1_002
+    2300008: Icosphere_Sub_2
+    2300010: Icosphere_Sub_2_001
+    2300012: Icosphere_Sub_3
+    2300014: Icosphere_Sub_3_001_MeshPart0
+    2300016: Icosphere_Sub_3_001_MeshPart1
+    2300018: Icosphere_Sub_3_002_MeshPart0
+    2300020: Icosphere_Sub_3_002_MeshPart1
+    2300022: Sun
+    2300024: Text
+    2300026: Text_001
+    2300028: Text_002
+    2300030: Text_003
+    2300032: Text_004
+    3300000: Asteroid_2
+    3300002: Icosphere_Sub_1
+    3300004: Icosphere_Sub_1_001
+    3300006: Icosphere_Sub_1_002
+    3300008: Icosphere_Sub_2
+    3300010: Icosphere_Sub_2_001
+    3300012: Icosphere_Sub_3
+    3300014: Icosphere_Sub_3_001_MeshPart0
+    3300016: Icosphere_Sub_3_001_MeshPart1
+    3300018: Icosphere_Sub_3_002_MeshPart0
+    3300020: Icosphere_Sub_3_002_MeshPart1
+    3300022: Sun
+    3300024: Text
+    3300026: Text_001
+    3300028: Text_002
+    3300030: Text_003
+    3300032: Text_004
+    4300000: Icosphere_Sub_1_002
+    4300002: Icosphere_Sub_3_002_MeshPart0
+    4300004: Icosphere_Sub_3_002_MeshPart1
+    4300006: Icosphere_Sub_3_001_MeshPart0
+    4300008: Icosphere_Sub_3_001_MeshPart1
+    4300010: Icosphere_Sub_1_001
+    4300012: Icosphere_Sub_1
+    4300014: Icosphere_Sub_3
+    4300016: Asteroid_2
+    4300018: Text_004
+    4300020: Text_003
+    4300022: Text_002
+    4300024: Text_001
+    4300026: Text
+    4300028: Icosphere_Sub_2_001
+    4300030: Sun
+    4300032: Icosphere_Sub_2
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asteroid-Material
+    second: {fileID: 2100000, guid: c235278638b1ead4892ef417c803744a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blank-Material
+    second: {fileID: 2100000, guid: 4d89f1f58d106f64589fbf01a7a12335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sun
+    second: {fileID: 2100000, guid: c255e7ea0a32850478192c76bf776ee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text
+    second: {fileID: 2100000, guid: acb462865b9ae40419167e7754e58a51, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
